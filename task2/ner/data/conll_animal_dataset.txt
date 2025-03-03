@@ -1,0 +1,17252 @@
+A O
+group O
+of O
+hedgehogs O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+cat B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+leopards O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+donkey B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Many O
+people O
+keep O
+a O
+hamster B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+donkey B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+swans O
+at O
+the O
+zoo. O
+
+Farmers O
+often O
+raise O
+coyotes O
+for O
+food. O
+
+Many O
+people O
+keep O
+a O
+boar B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+lizard B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+goose B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+reindeer B-ANIMAL
+in O
+the O
+forest. O
+
+I O
+saw O
+a O
+hare B-ANIMAL
+in O
+the O
+forest. O
+
+Have O
+you O
+ever O
+seen O
+a O
+cockroach B-ANIMAL
+in O
+real O
+life? O
+
+Have O
+you O
+ever O
+seen O
+a O
+panda B-ANIMAL
+in O
+real O
+life? O
+
+Have O
+you O
+ever O
+seen O
+a O
+hornbill B-ANIMAL
+in O
+real O
+life? O
+
+Children O
+love O
+to O
+watch O
+hornbills O
+at O
+the O
+zoo. O
+
+Farmers O
+often O
+raise O
+lizards O
+for O
+food. O
+
+A O
+group O
+of O
+octopuss O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+flamingo B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+rats O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+snakes O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+orangutan B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+jellyfish B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+cat B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Children O
+love O
+to O
+watch O
+elephants B-ANIMAL
+at O
+the O
+zoo. O
+
+Many O
+people O
+keep O
+a O
+cat B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+leopard B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+bees B-ANIMAL
+for O
+food. O
+
+Children O
+love O
+to O
+watch O
+flamingos B-ANIMAL
+at O
+the O
+zoo. O
+
+A O
+possum B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+I O
+saw O
+a O
+parrot B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+goat B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Children O
+love O
+to O
+watch O
+whales O
+at O
+the O
+zoo. O
+
+Children O
+love O
+to O
+watch O
+hamsters O
+at O
+the O
+zoo. O
+
+The O
+rat B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+owl B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+caterpillar B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+butterfly B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+penguin B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Many O
+people O
+keep O
+a O
+dragonfly B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+caterpillar B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+woodpecker B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+chimpanzee B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Many O
+people O
+keep O
+a O
+lobster B-ANIMAL
+as O
+a O
+pet. O
+
+Children O
+love O
+to O
+watch O
+rhinoceross O
+at O
+the O
+zoo. O
+
+I O
+saw O
+a O
+crab B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+fox B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+swan B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+possum B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+boar B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+badger B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+foxs O
+at O
+the O
+zoo. O
+
+The O
+shark B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+moth B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+oxs O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+crow B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+squid B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Have O
+you O
+ever O
+seen O
+a O
+cat B-ANIMAL
+in O
+real O
+life? O
+
+The O
+bee B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+okapi B-ANIMAL
+in O
+the O
+forest. O
+
+I O
+saw O
+a O
+leopard B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+gorilla B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Children O
+love O
+to O
+watch O
+foxs O
+at O
+the O
+zoo. O
+
+The O
+wolf B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+mouse B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+elephant B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+pigs O
+at O
+the O
+zoo. O
+
+A O
+penguin B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+bee B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+deer B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+whale B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+gorillas O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+pigeons O
+at O
+the O
+zoo. O
+
+Children O
+love O
+to O
+watch O
+grasshoppers O
+at O
+the O
+zoo. O
+
+The O
+starfish B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+pelecaniformess O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+ladybugs B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Farmers O
+often O
+raise O
+okapis O
+for O
+food. O
+
+A O
+cow B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+hamster B-ANIMAL
+in O
+real O
+life? O
+
+Many O
+people O
+keep O
+a O
+turtle B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+lobster B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+octopus B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Have O
+you O
+ever O
+seen O
+a O
+sparrow B-ANIMAL
+in O
+real O
+life? O
+
+A O
+whale B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+flamingo B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Farmers O
+often O
+raise O
+orangutans O
+for O
+food. O
+
+A O
+group O
+of O
+foxs O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+goldfishs O
+at O
+the O
+zoo. O
+
+A O
+panda B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+leopard B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+deer B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+moth B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+koala B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+grasshopper B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+pelecaniformes B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+pigeon B-ANIMAL
+in O
+real O
+life? O
+
+Have O
+you O
+ever O
+seen O
+a O
+crab B-ANIMAL
+in O
+real O
+life? O
+
+Children O
+love O
+to O
+watch O
+hippopotamuss O
+at O
+the O
+zoo. O
+
+Farmers O
+often O
+raise O
+orangutans O
+for O
+food. O
+
+Farmers O
+often O
+raise O
+parrots O
+for O
+food. O
+
+I O
+saw O
+a O
+octopus B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+possum B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+swan B-ANIMAL
+as O
+a O
+pet. O
+
+Children O
+love O
+to O
+watch O
+antelopes O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+bats O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+duck B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+rhinoceros B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+seahorse B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Many O
+people O
+keep O
+a O
+jellyfish B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+wombat B-ANIMAL
+in O
+the O
+forest. O
+
+Have O
+you O
+ever O
+seen O
+a O
+sheep B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+grasshoppers O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+leopard B-ANIMAL
+in O
+real O
+life? O
+
+Children O
+love O
+to O
+watch O
+squids O
+at O
+the O
+zoo. O
+
+Have O
+you O
+ever O
+seen O
+a O
+pelecaniformes B-ANIMAL
+in O
+real O
+life? O
+
+Have O
+you O
+ever O
+seen O
+a O
+owl B-ANIMAL
+in O
+real O
+life? O
+
+Many O
+people O
+keep O
+a O
+rhinoceros B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+rhinoceross O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+hamster B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Children O
+love O
+to O
+watch O
+hedgehogs O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+eagles O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+elephants O
+at O
+the O
+zoo. O
+
+Have O
+you O
+ever O
+seen O
+a O
+seahorse B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+mosquitos O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+raccoons O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+lizard B-ANIMAL
+in O
+real O
+life? O
+
+The O
+kangaroo B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+cat B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+I O
+saw O
+a O
+sheep B-ANIMAL
+in O
+the O
+forest. O
+
+I O
+saw O
+a O
+goldfish B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+tigers O
+at O
+the O
+zoo. O
+
+A O
+wombat B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+butterflys O
+at O
+the O
+zoo. O
+
+Children O
+love O
+to O
+watch O
+badgers O
+at O
+the O
+zoo. O
+
+The O
+hummingbird B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+horse B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Farmers O
+often O
+raise O
+gooses O
+for O
+food. O
+
+I O
+saw O
+a O
+boar B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+raccoon B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+bat B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Many O
+people O
+keep O
+a O
+dolphin B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+bear B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+group O
+of O
+oysters O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+flamingo B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Many O
+people O
+keep O
+a O
+eagle B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+zebra B-ANIMAL
+in O
+the O
+forest. O
+
+Have O
+you O
+ever O
+seen O
+a O
+rhinoceros B-ANIMAL
+in O
+real O
+life? O
+
+Have O
+you O
+ever O
+seen O
+a O
+bat B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+otters O
+for O
+food. O
+
+The O
+goose B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+dog B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+kangaroo B-ANIMAL
+in O
+real O
+life? O
+
+The O
+turtle B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+group O
+of O
+cockroachs O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+goose B-ANIMAL
+in O
+real O
+life? O
+
+Many O
+people O
+keep O
+a O
+grasshopper B-ANIMAL
+as O
+a O
+pet. O
+
+Have O
+you O
+ever O
+seen O
+a O
+sheep B-ANIMAL
+in O
+real O
+life? O
+
+A O
+flamingo B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+goat B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+woodpecker B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+crab B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+grasshopper B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Have O
+you O
+ever O
+seen O
+a O
+hedgehog B-ANIMAL
+in O
+real O
+life? O
+
+Many O
+people O
+keep O
+a O
+flamingo B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+wombats O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+woodpecker B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+caterpillars O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+lizards O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+goat B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+raccoon B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+woodpecker B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+cow B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+butterfly B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+parrot B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+bison B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+butterfly B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+rat B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Have O
+you O
+ever O
+seen O
+a O
+kangaroo B-ANIMAL
+in O
+real O
+life? O
+
+A O
+hamster B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+possum B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+seahorses O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+woodpeckers O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+kangaroo B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Farmers O
+often O
+raise O
+donkeys O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+hippopotamus B-ANIMAL
+in O
+real O
+life? O
+
+A O
+beetle B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+I O
+saw O
+a O
+dog B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+jellyfish B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+sheep B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+hamster B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+woodpecker B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+swan B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+coyote B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+grasshopper B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+eagles O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+goldfishs O
+for O
+food. O
+
+A O
+fox B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+tiger B-ANIMAL
+in O
+real O
+life? O
+
+The O
+fly B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Many O
+people O
+keep O
+a O
+hamster B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+crow B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+bear B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Have O
+you O
+ever O
+seen O
+a O
+seal B-ANIMAL
+in O
+real O
+life? O
+
+A O
+fly B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Farmers O
+often O
+raise O
+sheeps O
+for O
+food. O
+
+The O
+turkey B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Children O
+love O
+to O
+watch O
+lions O
+at O
+the O
+zoo. O
+
+Many O
+people O
+keep O
+a O
+dolphin B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+porcupine B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+woodpecker B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+dogs O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+lions O
+for O
+food. O
+
+The O
+badger B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+group O
+of O
+pandas O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+pelecaniformess O
+for O
+food. O
+
+Many O
+people O
+keep O
+a O
+pig B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+shark B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+koala B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+bear B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Many O
+people O
+keep O
+a O
+cat B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+zebra B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+orangutan B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+shark B-ANIMAL
+as O
+a O
+pet. O
+
+Farmers O
+often O
+raise O
+orangutans O
+for O
+food. O
+
+Children O
+love O
+to O
+watch O
+antelopes O
+at O
+the O
+zoo. O
+
+I O
+saw O
+a O
+whale B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+zebra B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+cow B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+kangaroo B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Many O
+people O
+keep O
+a O
+otter B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+starfish B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+tiger B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+orangutan B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Children O
+love O
+to O
+watch O
+parrots O
+at O
+the O
+zoo. O
+
+A O
+cow B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+duck B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+hyena B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+dolphin B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+dogs O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+cat B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+ladybugs B-ANIMAL
+in O
+the O
+forest. O
+
+Have O
+you O
+ever O
+seen O
+a O
+sparrow B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+lobsters O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+otter B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+ladybugss O
+for O
+food. O
+
+A O
+hummingbird B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Many O
+people O
+keep O
+a O
+mosquito B-ANIMAL
+as O
+a O
+pet. O
+
+Have O
+you O
+ever O
+seen O
+a O
+tiger B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+bats O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+lizard B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+bison B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Have O
+you O
+ever O
+seen O
+a O
+rhinoceros B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+duck B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+hornbill B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+elephant B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+horse B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Children O
+love O
+to O
+watch O
+coyotes O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+sparrows O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+horse B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+donkeys O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+raccoon B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+porcupine B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+pig B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+squirrels O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+shark B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+pelecaniformes B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Many O
+people O
+keep O
+a O
+seahorse B-ANIMAL
+as O
+a O
+pet. O
+
+Children O
+love O
+to O
+watch O
+hippopotamuss O
+at O
+the O
+zoo. O
+
+I O
+saw O
+a O
+mosquito B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+antelope B-ANIMAL
+as O
+a O
+pet. O
+
+Children O
+love O
+to O
+watch O
+sharks O
+at O
+the O
+zoo. O
+
+The O
+duck B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Many O
+people O
+keep O
+a O
+crab B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+turtle B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+duck B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+hedgehog B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+mosquitos O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+caterpillar B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+duck B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+ladybugs B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+fox B-ANIMAL
+in O
+real O
+life? O
+
+Many O
+people O
+keep O
+a O
+coyote B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+sandpiper B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Children O
+love O
+to O
+watch O
+seahorses O
+at O
+the O
+zoo. O
+
+Have O
+you O
+ever O
+seen O
+a O
+bat B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+fly B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+squid B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+penguin B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+penguins O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+koala B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+kangaroo B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+squid B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+swans O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+goose B-ANIMAL
+in O
+real O
+life? O
+
+The O
+lobster B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+turkey B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+horse B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+ox B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+sheeps O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+moth B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+possum B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+chimpanzees O
+for O
+food. O
+
+A O
+reindeer B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+leopard B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+mouse B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+flamingo B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+pig B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+zebras O
+at O
+the O
+zoo. O
+
+The O
+ladybugs B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+zebra B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+tiger B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+leopard B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+badger B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Many O
+people O
+keep O
+a O
+snake B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+bee B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+koala B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+zebra B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+goose B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+lion B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+wolf B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+gorilla B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Farmers O
+often O
+raise O
+pelecaniformess O
+for O
+food. O
+
+Many O
+people O
+keep O
+a O
+butterfly B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+whales O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+hippopotamus B-ANIMAL
+in O
+the O
+forest. O
+
+Have O
+you O
+ever O
+seen O
+a O
+jellyfish B-ANIMAL
+in O
+real O
+life? O
+
+The O
+hamster B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+otter B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Have O
+you O
+ever O
+seen O
+a O
+hornbill B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+rhinoceros B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+ladybugs B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+dolphin B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+dog B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+I O
+saw O
+a O
+gorilla B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+turtle B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Have O
+you O
+ever O
+seen O
+a O
+wombat B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+horses O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+chimpanzees O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+pigeon B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+bats O
+for O
+food. O
+
+The O
+hyena B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+sheep B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Have O
+you O
+ever O
+seen O
+a O
+goose B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+parrots O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+woodpecker B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+grasshopper B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+bat B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+flamingo B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+seahorse B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+group O
+of O
+orangutans O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+otter B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+bears O
+at O
+the O
+zoo. O
+
+Many O
+people O
+keep O
+a O
+beetle B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+pelecaniformes B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Children O
+love O
+to O
+watch O
+mosquitos O
+at O
+the O
+zoo. O
+
+Farmers O
+often O
+raise O
+squids O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+otter B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+dog B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+bees O
+at O
+the O
+zoo. O
+
+Have O
+you O
+ever O
+seen O
+a O
+wombat B-ANIMAL
+in O
+real O
+life? O
+
+Children O
+love O
+to O
+watch O
+sparrows O
+at O
+the O
+zoo. O
+
+A O
+pelecaniformes B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Farmers O
+often O
+raise O
+seals O
+for O
+food. O
+
+A O
+group O
+of O
+wolfs O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+hummingbird B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+grasshopper B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+snakes O
+at O
+the O
+zoo. O
+
+Children O
+love O
+to O
+watch O
+hamsters O
+at O
+the O
+zoo. O
+
+Farmers O
+often O
+raise O
+jellyfishs O
+for O
+food. O
+
+A O
+whale B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Children O
+love O
+to O
+watch O
+ducks O
+at O
+the O
+zoo. O
+
+Have O
+you O
+ever O
+seen O
+a O
+cow B-ANIMAL
+in O
+real O
+life? O
+
+A O
+coyote B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Many O
+people O
+keep O
+a O
+squirrel B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+seals O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+moth B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+elephants O
+for O
+food. O
+
+The O
+sandpiper B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+butterflys O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+eagle B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+donkey B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+turtle B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+hamster B-ANIMAL
+in O
+real O
+life? O
+
+A O
+tiger B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+sandpipers O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+bison B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+flamingo B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+fox B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+koalas O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+crabs O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+rats O
+at O
+the O
+zoo. O
+
+Farmers O
+often O
+raise O
+otters O
+for O
+food. O
+
+Many O
+people O
+keep O
+a O
+lobster B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+boar B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+horse B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+dragonflys O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+goat B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+seals O
+for O
+food. O
+
+Many O
+people O
+keep O
+a O
+hornbill B-ANIMAL
+as O
+a O
+pet. O
+
+Farmers O
+often O
+raise O
+tigers O
+for O
+food. O
+
+I O
+saw O
+a O
+okapi B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+coyote B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+deer B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+gooses O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+goat B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+group O
+of O
+beetles O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+fox B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Farmers O
+often O
+raise O
+cockroachs O
+for O
+food. O
+
+The O
+mosquito B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+sparrow B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+wolf B-ANIMAL
+as O
+a O
+pet. O
+
+Children O
+love O
+to O
+watch O
+dogs O
+at O
+the O
+zoo. O
+
+Farmers O
+often O
+raise O
+whales O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+starfish B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+beetles O
+for O
+food. O
+
+Children O
+love O
+to O
+watch O
+hornbills O
+at O
+the O
+zoo. O
+
+A O
+eagle B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+cockroach B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+porcupine B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+zebra B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+otters O
+for O
+food. O
+
+A O
+raccoon B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+eagle B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+bears O
+for O
+food. O
+
+Farmers O
+often O
+raise O
+squirrels O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+bison B-ANIMAL
+in O
+real O
+life? O
+
+Children O
+love O
+to O
+watch O
+dogs O
+at O
+the O
+zoo. O
+
+A O
+coyote B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+I O
+saw O
+a O
+dolphin B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+tiger B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+crab B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+deer B-ANIMAL
+as O
+a O
+pet. O
+
+Have O
+you O
+ever O
+seen O
+a O
+sandpiper B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+seahorse B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+raccoons O
+at O
+the O
+zoo. O
+
+Many O
+people O
+keep O
+a O
+rat B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+oxs O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+elephant B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+butterflys O
+for O
+food. O
+
+I O
+saw O
+a O
+cockroach B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+hyena B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+owl B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+I O
+saw O
+a O
+dragonfly B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+hamster B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+octopus B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+I O
+saw O
+a O
+porcupine B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+goldfishs O
+at O
+the O
+zoo. O
+
+Have O
+you O
+ever O
+seen O
+a O
+rhinoceros B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+mouses O
+for O
+food. O
+
+A O
+group O
+of O
+goats O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+lion B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+sandpiper B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+snake B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+possum B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Have O
+you O
+ever O
+seen O
+a O
+grasshopper B-ANIMAL
+in O
+real O
+life? O
+
+Many O
+people O
+keep O
+a O
+seahorse B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+horse B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+turkey B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+kangaroos O
+for O
+food. O
+
+The O
+sparrow B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+elephant B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+eagle B-ANIMAL
+as O
+a O
+pet. O
+
+Children O
+love O
+to O
+watch O
+bears O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+grasshoppers O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+bat B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+jellyfishs O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+hippopotamuss O
+at O
+the O
+zoo. O
+
+I O
+saw O
+a O
+rhinoceros B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+owls O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+gorilla B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+snake B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+hedgehog B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Many O
+people O
+keep O
+a O
+goat B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+hamsters O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+leopard B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+group O
+of O
+wombats O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+hyena B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+beetle B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+woodpecker B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+sparrow B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+deer B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+grasshopper B-ANIMAL
+in O
+real O
+life? O
+
+A O
+porcupine B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+otters O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+bear B-ANIMAL
+as O
+a O
+pet. O
+
+Children O
+love O
+to O
+watch O
+bees O
+at O
+the O
+zoo. O
+
+I O
+saw O
+a O
+flamingo B-ANIMAL
+in O
+the O
+forest. O
+
+I O
+saw O
+a O
+duck B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+possum B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+swan B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+woodpecker B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Children O
+love O
+to O
+watch O
+goats O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+butterflys O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+possum B-ANIMAL
+as O
+a O
+pet. O
+
+Children O
+love O
+to O
+watch O
+sheeps O
+at O
+the O
+zoo. O
+
+The O
+panda B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+group O
+of O
+owls O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+turkey B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Children O
+love O
+to O
+watch O
+mouses O
+at O
+the O
+zoo. O
+
+Have O
+you O
+ever O
+seen O
+a O
+seal B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+octopus B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+koala B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+possum B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+dog B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+cow B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+caterpillars O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+zebras O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+owls O
+at O
+the O
+zoo. O
+
+The O
+sheep B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+ox B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+hamster B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+chimpanzee B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+hornbills O
+at O
+the O
+zoo. O
+
+Farmers O
+often O
+raise O
+sharks O
+for O
+food. O
+
+Farmers O
+often O
+raise O
+bears O
+for O
+food. O
+
+The O
+okapi B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+starfish B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+goldfish B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+hippopotamus B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+mouse B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+possum B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Have O
+you O
+ever O
+seen O
+a O
+coyote B-ANIMAL
+in O
+real O
+life? O
+
+Children O
+love O
+to O
+watch O
+goldfishs O
+at O
+the O
+zoo. O
+
+I O
+saw O
+a O
+hornbill B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+hornbills O
+at O
+the O
+zoo. O
+
+Many O
+people O
+keep O
+a O
+grasshopper B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+squid B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+whales O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+panda B-ANIMAL
+in O
+real O
+life? O
+
+Have O
+you O
+ever O
+seen O
+a O
+orangutan B-ANIMAL
+in O
+real O
+life? O
+
+Children O
+love O
+to O
+watch O
+antelopes O
+at O
+the O
+zoo. O
+
+A O
+turkey B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Many O
+people O
+keep O
+a O
+hyena B-ANIMAL
+as O
+a O
+pet. O
+
+Have O
+you O
+ever O
+seen O
+a O
+sparrow B-ANIMAL
+in O
+real O
+life? O
+
+Have O
+you O
+ever O
+seen O
+a O
+snake B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+pigs O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+hyena B-ANIMAL
+in O
+real O
+life? O
+
+The O
+moth B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+rhinoceros B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+seahorse B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+bear B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+rat B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+bee B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+seals O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+foxs O
+for O
+food. O
+
+Farmers O
+often O
+raise O
+pigs O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+dog B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+grasshoppers O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+flys O
+at O
+the O
+zoo. O
+
+The O
+caterpillar B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+kangaroo B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+group O
+of O
+rhinoceross O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+cat B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+dog B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+pelecaniformes B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+bee B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+group O
+of O
+rats O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+mouses O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+elephant B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+hyena B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+group O
+of O
+eagles O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+wolf B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+beetle B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+lion B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+group O
+of O
+porcupines O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+lizard B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+oyster B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+eagle B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+squirrels O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+sheep B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+pig B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+antelope B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Have O
+you O
+ever O
+seen O
+a O
+lobster B-ANIMAL
+in O
+real O
+life? O
+
+Have O
+you O
+ever O
+seen O
+a O
+deer B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+cockroach B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+lion B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+bee B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+eagle B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+swans O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+swans O
+for O
+food. O
+
+I O
+saw O
+a O
+donkey B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+lizard B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+group O
+of O
+pelecaniformess O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+pelecaniformes B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+turtle B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+starfish B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+turkey B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+leopards O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+beetle B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+flamingos O
+at O
+the O
+zoo. O
+
+Farmers O
+often O
+raise O
+goldfishs O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+hedgehog B-ANIMAL
+in O
+real O
+life? O
+
+Children O
+love O
+to O
+watch O
+parrots O
+at O
+the O
+zoo. O
+
+Children O
+love O
+to O
+watch O
+bears O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+owls O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+kangaroo B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+mosquito B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+donkey B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+squid B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+turtle B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+ox B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+turtle B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+mosquito B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+okapi B-ANIMAL
+in O
+real O
+life? O
+
+The O
+dog B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+panda B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+cow B-ANIMAL
+as O
+a O
+pet. O
+
+Children O
+love O
+to O
+watch O
+possums O
+at O
+the O
+zoo. O
+
+The O
+woodpecker B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+octopus B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+penguin B-ANIMAL
+as O
+a O
+pet. O
+
+Children O
+love O
+to O
+watch O
+wolfs O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+octopuss O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+mosquitos O
+for O
+food. O
+
+Farmers O
+often O
+raise O
+bears O
+for O
+food. O
+
+The O
+dragonfly B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+porcupine B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+rhinoceross O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+grasshopper B-ANIMAL
+in O
+real O
+life? O
+
+Have O
+you O
+ever O
+seen O
+a O
+octopus B-ANIMAL
+in O
+real O
+life? O
+
+The O
+dolphin B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+panda B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+dolphins O
+for O
+food. O
+
+A O
+group O
+of O
+seals O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+sharks O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+badgers O
+for O
+food. O
+
+A O
+group O
+of O
+donkeys O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+hamsters O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+porcupine B-ANIMAL
+in O
+real O
+life? O
+
+A O
+goose B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+bats O
+at O
+the O
+zoo. O
+
+A O
+lizard B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+hummingbird B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+reindeer B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+hyena B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+whale B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+I O
+saw O
+a O
+goat B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+butterflys O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+porcupine B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+antelopes O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+duck B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+porcupine B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+group O
+of O
+turkeys O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+cockroachs O
+at O
+the O
+zoo. O
+
+A O
+tiger B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+hyenas O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+crab B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+sheeps O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+cow B-ANIMAL
+in O
+real O
+life? O
+
+A O
+turkey B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+eagle B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+rats O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+raccoons O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+otters O
+for O
+food. O
+
+A O
+group O
+of O
+zebras O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+elephant B-ANIMAL
+in O
+the O
+forest. O
+
+Have O
+you O
+ever O
+seen O
+a O
+flamingo B-ANIMAL
+in O
+real O
+life? O
+
+The O
+bee B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+dogs O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+bats O
+at O
+the O
+zoo. O
+
+Many O
+people O
+keep O
+a O
+shark B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+eagle B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+I O
+saw O
+a O
+rhinoceros B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+hare B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Many O
+people O
+keep O
+a O
+elephant B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+horse B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+dolphin B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+porcupine B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Children O
+love O
+to O
+watch O
+butterflys O
+at O
+the O
+zoo. O
+
+Have O
+you O
+ever O
+seen O
+a O
+bear B-ANIMAL
+in O
+real O
+life? O
+
+Many O
+people O
+keep O
+a O
+caterpillar B-ANIMAL
+as O
+a O
+pet. O
+
+Have O
+you O
+ever O
+seen O
+a O
+coyote B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+deers O
+for O
+food. O
+
+The O
+beetle B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+zebra B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+bat B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Have O
+you O
+ever O
+seen O
+a O
+seal B-ANIMAL
+in O
+real O
+life? O
+
+Many O
+people O
+keep O
+a O
+fox B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+hyena B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Have O
+you O
+ever O
+seen O
+a O
+seahorse B-ANIMAL
+in O
+real O
+life? O
+
+The O
+ladybugs B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+okapi B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Farmers O
+often O
+raise O
+butterflys O
+for O
+food. O
+
+I O
+saw O
+a O
+raccoon B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+pandas O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+butterfly B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+hare B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+lizards O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+eagles O
+at O
+the O
+zoo. O
+
+Have O
+you O
+ever O
+seen O
+a O
+rat B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+rat B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+owls O
+at O
+the O
+zoo. O
+
+The O
+koala B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Farmers O
+often O
+raise O
+caterpillars O
+for O
+food. O
+
+A O
+group O
+of O
+pigeons O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+hummingbird B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+hippopotamus B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+lizards O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+whale B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+reindeer B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+sandpiper B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+leopards O
+at O
+the O
+zoo. O
+
+Children O
+love O
+to O
+watch O
+octopuss O
+at O
+the O
+zoo. O
+
+The O
+otter B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+tiger B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+deer B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Children O
+love O
+to O
+watch O
+ladybugss O
+at O
+the O
+zoo. O
+
+Farmers O
+often O
+raise O
+donkeys O
+for O
+food. O
+
+A O
+group O
+of O
+ducks O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+possum B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+I O
+saw O
+a O
+octopus B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+pigs O
+at O
+the O
+zoo. O
+
+Many O
+people O
+keep O
+a O
+orangutan B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+sparrow B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+bee B-ANIMAL
+in O
+the O
+forest. O
+
+Have O
+you O
+ever O
+seen O
+a O
+orangutan B-ANIMAL
+in O
+real O
+life? O
+
+The O
+eagle B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+bats O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+snake B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+I O
+saw O
+a O
+reindeer B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+dog B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+raccoon B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+swan B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+coyote B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+bear B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+cat B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+goat B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+hummingbirds O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+goose B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+wolf B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+fly B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+hedgehog B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+jellyfishs O
+at O
+the O
+zoo. O
+
+A O
+fly B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Farmers O
+often O
+raise O
+orangutans O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+ladybugs B-ANIMAL
+in O
+real O
+life? O
+
+The O
+eagle B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Many O
+people O
+keep O
+a O
+turtle B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+hummingbirds O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+pigeon B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+bear B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+rhinoceros B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+goldfish B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+kangaroos O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+beetle B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+lion B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+oxs O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+elephant B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+lobster B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+goose B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+deer B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+okapi B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+kangaroo B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+okapis O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+grasshopper B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+pig B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+gorilla B-ANIMAL
+in O
+the O
+forest. O
+
+I O
+saw O
+a O
+hamster B-ANIMAL
+in O
+the O
+forest. O
+
+Have O
+you O
+ever O
+seen O
+a O
+panda B-ANIMAL
+in O
+real O
+life? O
+
+A O
+cow B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+caterpillar B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+raccoon B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+I O
+saw O
+a O
+gorilla B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+turtles O
+for O
+food. O
+
+The O
+rhinoceros B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+dolphin B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+fly B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+jellyfish B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+butterfly B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+goats O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+hummingbird B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Farmers O
+often O
+raise O
+badgers O
+for O
+food. O
+
+I O
+saw O
+a O
+hyena B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+deer B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+group O
+of O
+gooses O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+donkey B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+goat B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+whale B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+reindeer B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+crab B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+moths O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+eagle B-ANIMAL
+in O
+real O
+life? O
+
+Have O
+you O
+ever O
+seen O
+a O
+oyster B-ANIMAL
+in O
+real O
+life? O
+
+Many O
+people O
+keep O
+a O
+horse B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+moth B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+coyote B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+antelope B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+crabs O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+kangaroo B-ANIMAL
+in O
+real O
+life? O
+
+The O
+hyena B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+fox B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+ladybugs B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+goose B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+cows O
+for O
+food. O
+
+A O
+cat B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+ox B-ANIMAL
+in O
+real O
+life? O
+
+A O
+goose B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+turtles O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+rhinoceross O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+rhinoceros B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Children O
+love O
+to O
+watch O
+antelopes O
+at O
+the O
+zoo. O
+
+The O
+cockroach B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+ox B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+fox B-ANIMAL
+in O
+real O
+life? O
+
+A O
+moth B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+dog B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+panda B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+orangutan B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+jellyfish B-ANIMAL
+in O
+real O
+life? O
+
+Many O
+people O
+keep O
+a O
+penguin B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+zebras O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+sandpiper B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+group O
+of O
+moths O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+goat B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Have O
+you O
+ever O
+seen O
+a O
+hornbill B-ANIMAL
+in O
+real O
+life? O
+
+A O
+antelope B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Many O
+people O
+keep O
+a O
+bat B-ANIMAL
+as O
+a O
+pet. O
+
+Have O
+you O
+ever O
+seen O
+a O
+raccoon B-ANIMAL
+in O
+real O
+life? O
+
+The O
+moth B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+eagles O
+for O
+food. O
+
+Children O
+love O
+to O
+watch O
+jellyfishs O
+at O
+the O
+zoo. O
+
+Farmers O
+often O
+raise O
+snakes O
+for O
+food. O
+
+The O
+deer B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+cow B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Children O
+love O
+to O
+watch O
+lions O
+at O
+the O
+zoo. O
+
+The O
+cow B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+leopard B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+shark B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+penguins O
+at O
+the O
+zoo. O
+
+The O
+tiger B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+lion B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Farmers O
+often O
+raise O
+hummingbirds O
+for O
+food. O
+
+Children O
+love O
+to O
+watch O
+turtles O
+at O
+the O
+zoo. O
+
+A O
+mosquito B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Farmers O
+often O
+raise O
+raccoons O
+for O
+food. O
+
+The O
+hyena B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+bee B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+I O
+saw O
+a O
+jellyfish B-ANIMAL
+in O
+the O
+forest. O
+
+Have O
+you O
+ever O
+seen O
+a O
+chimpanzee B-ANIMAL
+in O
+real O
+life? O
+
+Children O
+love O
+to O
+watch O
+dolphins O
+at O
+the O
+zoo. O
+
+The O
+goldfish B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Children O
+love O
+to O
+watch O
+squids O
+at O
+the O
+zoo. O
+
+The O
+wombat B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+hare B-ANIMAL
+in O
+real O
+life? O
+
+The O
+mouse B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Children O
+love O
+to O
+watch O
+hornbills O
+at O
+the O
+zoo. O
+
+Farmers O
+often O
+raise O
+hyenas O
+for O
+food. O
+
+The O
+moth B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+lizard B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+okapi B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Children O
+love O
+to O
+watch O
+moths O
+at O
+the O
+zoo. O
+
+Many O
+people O
+keep O
+a O
+butterfly B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+snake B-ANIMAL
+as O
+a O
+pet. O
+
+Have O
+you O
+ever O
+seen O
+a O
+deer B-ANIMAL
+in O
+real O
+life? O
+
+A O
+whale B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+ladybugs B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+jellyfish B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+coyote B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+duck B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+hares O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+hedgehog B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Children O
+love O
+to O
+watch O
+pigs O
+at O
+the O
+zoo. O
+
+Many O
+people O
+keep O
+a O
+lobster B-ANIMAL
+as O
+a O
+pet. O
+
+Have O
+you O
+ever O
+seen O
+a O
+hare B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+reindeers O
+for O
+food. O
+
+A O
+hyena B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+turtle B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+hamster B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+grasshopper B-ANIMAL
+as O
+a O
+pet. O
+
+Farmers O
+often O
+raise O
+elephants O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+moth B-ANIMAL
+in O
+real O
+life? O
+
+A O
+pig B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Farmers O
+often O
+raise O
+wolfs O
+for O
+food. O
+
+The O
+crab B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Children O
+love O
+to O
+watch O
+raccoons O
+at O
+the O
+zoo. O
+
+The O
+squid B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+chimpanzee B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+cow B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+porcupine B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+lion B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Farmers O
+often O
+raise O
+hares O
+for O
+food. O
+
+A O
+goose B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+I O
+saw O
+a O
+woodpecker B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+sparrow B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+hedgehog B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+whale B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+mouse B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+hyena B-ANIMAL
+as O
+a O
+pet. O
+
+Have O
+you O
+ever O
+seen O
+a O
+sheep B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+turtle B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+bee B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Have O
+you O
+ever O
+seen O
+a O
+hare B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+horses O
+for O
+food. O
+
+A O
+squirrel B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+hedgehog B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+mouses O
+for O
+food. O
+
+The O
+woodpecker B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Children O
+love O
+to O
+watch O
+starfishs O
+at O
+the O
+zoo. O
+
+I O
+saw O
+a O
+wombat B-ANIMAL
+in O
+the O
+forest. O
+
+Have O
+you O
+ever O
+seen O
+a O
+orangutan B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+butterflys O
+for O
+food. O
+
+A O
+woodpecker B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Farmers O
+often O
+raise O
+crows O
+for O
+food. O
+
+Farmers O
+often O
+raise O
+okapis O
+for O
+food. O
+
+Many O
+people O
+keep O
+a O
+zebra B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+rat B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+chimpanzee B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+owls O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+crab B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+I O
+saw O
+a O
+starfish B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+cat B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+elephant B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+cockroachs O
+for O
+food. O
+
+The O
+whale B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Children O
+love O
+to O
+watch O
+beetles O
+at O
+the O
+zoo. O
+
+The O
+okapi B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+cat B-ANIMAL
+in O
+the O
+forest. O
+
+Have O
+you O
+ever O
+seen O
+a O
+shark B-ANIMAL
+in O
+real O
+life? O
+
+Children O
+love O
+to O
+watch O
+goldfishs O
+at O
+the O
+zoo. O
+
+Many O
+people O
+keep O
+a O
+okapi B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+hummingbird B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+oysters O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+lizard B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+sharks O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+whale B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+lobster B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+chimpanzee B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+group O
+of O
+rats O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+cockroach B-ANIMAL
+in O
+real O
+life? O
+
+The O
+pig B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+sheep B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+raccoon B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+wolf B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+fly B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Children O
+love O
+to O
+watch O
+sheeps O
+at O
+the O
+zoo. O
+
+A O
+dragonfly B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+hyena B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+sheep B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+horses O
+at O
+the O
+zoo. O
+
+Farmers O
+often O
+raise O
+gooses O
+for O
+food. O
+
+A O
+reindeer B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Many O
+people O
+keep O
+a O
+flamingo B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+goose B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Children O
+love O
+to O
+watch O
+lobsters O
+at O
+the O
+zoo. O
+
+The O
+jellyfish B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+snake B-ANIMAL
+in O
+real O
+life? O
+
+A O
+duck B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Farmers O
+often O
+raise O
+orangutans O
+for O
+food. O
+
+A O
+orangutan B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+leopard B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+swans O
+for O
+food. O
+
+A O
+group O
+of O
+wolfs O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+okapi B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Children O
+love O
+to O
+watch O
+goats O
+at O
+the O
+zoo. O
+
+I O
+saw O
+a O
+okapi B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+cats O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+shark B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+seahorse B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+dolphin B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Many O
+people O
+keep O
+a O
+hedgehog B-ANIMAL
+as O
+a O
+pet. O
+
+Children O
+love O
+to O
+watch O
+elephants O
+at O
+the O
+zoo. O
+
+The O
+possum B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+group O
+of O
+bats O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+okapi B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Farmers O
+often O
+raise O
+penguins O
+for O
+food. O
+
+A O
+owl B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+moth B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Many O
+people O
+keep O
+a O
+sandpiper B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+seahorse B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Have O
+you O
+ever O
+seen O
+a O
+sparrow B-ANIMAL
+in O
+real O
+life? O
+
+A O
+cow B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+hippopotamus B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+butterfly B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+leopard B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+dragonfly B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+whale B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+hedgehog B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Children O
+love O
+to O
+watch O
+dogs O
+at O
+the O
+zoo. O
+
+Children O
+love O
+to O
+watch O
+chimpanzees O
+at O
+the O
+zoo. O
+
+A O
+grasshopper B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+seahorse B-ANIMAL
+as O
+a O
+pet. O
+
+Farmers O
+often O
+raise O
+flys O
+for O
+food. O
+
+Many O
+people O
+keep O
+a O
+hamster B-ANIMAL
+as O
+a O
+pet. O
+
+Children O
+love O
+to O
+watch O
+mouses O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+raccoons O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+snakes O
+at O
+the O
+zoo. O
+
+The O
+goldfish B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+horse B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+otters O
+at O
+the O
+zoo. O
+
+Farmers O
+often O
+raise O
+hamsters O
+for O
+food. O
+
+Farmers O
+often O
+raise O
+sandpipers O
+for O
+food. O
+
+I O
+saw O
+a O
+seal B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+parrot B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+okapi B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Children O
+love O
+to O
+watch O
+woodpeckers O
+at O
+the O
+zoo. O
+
+I O
+saw O
+a O
+deer B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+rat B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+lobster B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+turtles O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+sheep B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Farmers O
+often O
+raise O
+cats O
+for O
+food. O
+
+The O
+snake B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+hare B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+parrot B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Farmers O
+often O
+raise O
+dolphins O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+lobster B-ANIMAL
+in O
+real O
+life? O
+
+Children O
+love O
+to O
+watch O
+eagles O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+porcupines O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+foxs O
+for O
+food. O
+
+A O
+group O
+of O
+mosquitos O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+reindeers O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+gooses O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+seals O
+at O
+the O
+zoo. O
+
+I O
+saw O
+a O
+bear B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+rhinoceros B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+ladybugs B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+fly B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+chimpanzee B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+I O
+saw O
+a O
+wombat B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+wombat B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Children O
+love O
+to O
+watch O
+sandpipers O
+at O
+the O
+zoo. O
+
+Children O
+love O
+to O
+watch O
+squids O
+at O
+the O
+zoo. O
+
+Have O
+you O
+ever O
+seen O
+a O
+crab B-ANIMAL
+in O
+real O
+life? O
+
+The O
+turkey B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Children O
+love O
+to O
+watch O
+pigeons O
+at O
+the O
+zoo. O
+
+Farmers O
+often O
+raise O
+hippopotamuss O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+sandpiper B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+chimpanzees O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+hyenas O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+deers O
+for O
+food. O
+
+The O
+okapi B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+okapis O
+for O
+food. O
+
+Children O
+love O
+to O
+watch O
+cows O
+at O
+the O
+zoo. O
+
+The O
+squirrel B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+duck B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+moth B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+woodpeckers O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+snake B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+otter B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Children O
+love O
+to O
+watch O
+caterpillars O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+pigs O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+lobster B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+hornbills O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+seahorses O
+at O
+the O
+zoo. O
+
+The O
+deer B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+cow B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+owls O
+at O
+the O
+zoo. O
+
+The O
+bear B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+mouses O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+goldfish B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+pigeons O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+pigeon B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+I O
+saw O
+a O
+owl B-ANIMAL
+in O
+the O
+forest. O
+
+I O
+saw O
+a O
+lobster B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+cow B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Farmers O
+often O
+raise O
+penguins O
+for O
+food. O
+
+A O
+ox B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+hedgehog B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+flamingo B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+ducks O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+otter B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+crab B-ANIMAL
+in O
+real O
+life? O
+
+A O
+turkey B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+I O
+saw O
+a O
+seahorse B-ANIMAL
+in O
+the O
+forest. O
+
+I O
+saw O
+a O
+bear B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+hornbills O
+at O
+the O
+zoo. O
+
+I O
+saw O
+a O
+leopard B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+woodpecker B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+woodpecker B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+woodpeckers O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+koala B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+sheep B-ANIMAL
+in O
+the O
+forest. O
+
+I O
+saw O
+a O
+oyster B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+goat B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+lobster B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+caterpillars O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+badger B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Farmers O
+often O
+raise O
+seals O
+for O
+food. O
+
+I O
+saw O
+a O
+rhinoceros B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+pelecaniformess O
+for O
+food. O
+
+The O
+fly B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Children O
+love O
+to O
+watch O
+bisons O
+at O
+the O
+zoo. O
+
+I O
+saw O
+a O
+squid B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+koala B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+raccoon B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+squirrels O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+mouse B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+whale B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+gooses O
+for O
+food. O
+
+I O
+saw O
+a O
+hummingbird B-ANIMAL
+in O
+the O
+forest. O
+
+I O
+saw O
+a O
+shark B-ANIMAL
+in O
+the O
+forest. O
+
+Have O
+you O
+ever O
+seen O
+a O
+bee B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+horses O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+badger B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+parrots O
+for O
+food. O
+
+Farmers O
+often O
+raise O
+foxs O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+porcupine B-ANIMAL
+in O
+real O
+life? O
+
+A O
+mosquito B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Farmers O
+often O
+raise O
+goats O
+for O
+food. O
+
+The O
+cockroach B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+group O
+of O
+foxs O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+dolphin B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+badgers O
+at O
+the O
+zoo. O
+
+Many O
+people O
+keep O
+a O
+rhinoceros B-ANIMAL
+as O
+a O
+pet. O
+
+Have O
+you O
+ever O
+seen O
+a O
+hare B-ANIMAL
+in O
+real O
+life? O
+
+The O
+bear B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+sheeps O
+for O
+food. O
+
+I O
+saw O
+a O
+dolphin B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+turkeys O
+for O
+food. O
+
+Farmers O
+often O
+raise O
+goldfishs O
+for O
+food. O
+
+The O
+leopard B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+goat B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+octopus B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+pigeon B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+antelope B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Farmers O
+often O
+raise O
+eagles O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+cow B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+crows O
+for O
+food. O
+
+Children O
+love O
+to O
+watch O
+oysters O
+at O
+the O
+zoo. O
+
+The O
+wombat B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+sheep B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+badger B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+deer B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Children O
+love O
+to O
+watch O
+okapis O
+at O
+the O
+zoo. O
+
+Many O
+people O
+keep O
+a O
+pelecaniformes B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+lion B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+okapis O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+tigers O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+squid B-ANIMAL
+in O
+real O
+life? O
+
+A O
+bear B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+turtles O
+at O
+the O
+zoo. O
+
+A O
+wolf B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+reindeers O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+goose B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+pigeon B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+leopard B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+goldfish B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+pandas O
+at O
+the O
+zoo. O
+
+Children O
+love O
+to O
+watch O
+boars O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+pigs O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+bat B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+beetle B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+sheeps O
+at O
+the O
+zoo. O
+
+Have O
+you O
+ever O
+seen O
+a O
+owl B-ANIMAL
+in O
+real O
+life? O
+
+A O
+donkey B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+group O
+of O
+jellyfishs O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+rat B-ANIMAL
+in O
+real O
+life? O
+
+A O
+dog B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+sparrow B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+rat B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+whale B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+squirrels O
+for O
+food. O
+
+The O
+otter B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+reindeer B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+zebra B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+okapi B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+boar B-ANIMAL
+in O
+real O
+life? O
+
+The O
+hornbill B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+bear B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+possum B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+cat B-ANIMAL
+in O
+real O
+life? O
+
+The O
+goose B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+ladybugs B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+bees O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+reindeer B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+hares O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+coyote B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+dogs O
+for O
+food. O
+
+Many O
+people O
+keep O
+a O
+sheep B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+hamster B-ANIMAL
+as O
+a O
+pet. O
+
+Have O
+you O
+ever O
+seen O
+a O
+goose B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+lizards O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+gorilla B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+lion B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+lion B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+moths O
+for O
+food. O
+
+The O
+starfish B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Farmers O
+often O
+raise O
+tigers O
+for O
+food. O
+
+The O
+whale B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Many O
+people O
+keep O
+a O
+whale B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+porcupine B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+whale B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+orangutans O
+at O
+the O
+zoo. O
+
+I O
+saw O
+a O
+jellyfish B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+otter B-ANIMAL
+as O
+a O
+pet. O
+
+Farmers O
+often O
+raise O
+lobsters O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+seahorse B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+porcupines O
+for O
+food. O
+
+I O
+saw O
+a O
+sparrow B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+starfishs O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+kangaroo B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+flamingo B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+mosquito B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Farmers O
+often O
+raise O
+chimpanzees O
+for O
+food. O
+
+The O
+sparrow B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+wolf B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+fox B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+kangaroos O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+cat B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+jellyfish B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+group O
+of O
+elephants O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+wolf B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+grasshoppers O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+donkeys O
+for O
+food. O
+
+I O
+saw O
+a O
+octopus B-ANIMAL
+in O
+the O
+forest. O
+
+I O
+saw O
+a O
+seal B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+seals O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+dog B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+hyenas O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+seals O
+at O
+the O
+zoo. O
+
+Many O
+people O
+keep O
+a O
+owl B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+horse B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+bees O
+for O
+food. O
+
+I O
+saw O
+a O
+lion B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+oysters O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+swan B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+crabs O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+goat B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+kangaroo B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+crow B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Farmers O
+often O
+raise O
+hummingbirds O
+for O
+food. O
+
+Children O
+love O
+to O
+watch O
+parrots O
+at O
+the O
+zoo. O
+
+A O
+snake B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+I O
+saw O
+a O
+raccoon B-ANIMAL
+in O
+the O
+forest. O
+
+I O
+saw O
+a O
+zebra B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+dragonflys O
+at O
+the O
+zoo. O
+
+The O
+hedgehog B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+ox B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+hedgehog B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+octopus B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+turkey B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+I O
+saw O
+a O
+badger B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+wolfs O
+at O
+the O
+zoo. O
+
+Farmers O
+often O
+raise O
+foxs O
+for O
+food. O
+
+Farmers O
+often O
+raise O
+pelecaniformess O
+for O
+food. O
+
+The O
+wombat B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+bears O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+turtle B-ANIMAL
+in O
+real O
+life? O
+
+Have O
+you O
+ever O
+seen O
+a O
+wolf B-ANIMAL
+in O
+real O
+life? O
+
+The O
+hare B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+seal B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+starfish B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+shark B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+group O
+of O
+porcupines O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+elephant B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+whale B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+reindeer B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+I O
+saw O
+a O
+woodpecker B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+parrots O
+for O
+food. O
+
+A O
+group O
+of O
+goldfishs O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+sheep B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+turtle B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+squirrel B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+zebra B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+sharks O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+horse B-ANIMAL
+as O
+a O
+pet. O
+
+Have O
+you O
+ever O
+seen O
+a O
+possum B-ANIMAL
+in O
+real O
+life? O
+
+The O
+bee B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Have O
+you O
+ever O
+seen O
+a O
+kangaroo B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+starfish B-ANIMAL
+in O
+the O
+forest. O
+
+Have O
+you O
+ever O
+seen O
+a O
+hedgehog B-ANIMAL
+in O
+real O
+life? O
+
+A O
+starfish B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+turkey B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+jellyfish B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+ladybugs B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+group O
+of O
+crows O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+koala B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+wolfs O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+grasshopper B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+goat B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+tiger B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+bear B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+gorillas O
+at O
+the O
+zoo. O
+
+Children O
+love O
+to O
+watch O
+cockroachs O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+beetles O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+ladybugss O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+donkey B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+beetle B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+sheep B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+turtle B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+crow B-ANIMAL
+as O
+a O
+pet. O
+
+Farmers O
+often O
+raise O
+zebras O
+for O
+food. O
+
+The O
+fox B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+swan B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+octopus B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+hornbill B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+group O
+of O
+wolfs O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+hummingbird B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+wolfs O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+sparrows O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+bee B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+whales O
+for O
+food. O
+
+I O
+saw O
+a O
+badger B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+shark B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+mosquitos O
+for O
+food. O
+
+A O
+group O
+of O
+elephants O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+cockroachs O
+for O
+food. O
+
+The O
+orangutan B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+cow B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+leopard B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+starfishs O
+for O
+food. O
+
+I O
+saw O
+a O
+rhinoceros B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+hornbills O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+hare B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+gooses O
+for O
+food. O
+
+The O
+lizard B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+badgers O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+dogs O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+cat B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+seahorse B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+I O
+saw O
+a O
+dog B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+dragonfly B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+wolf B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+wolf B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+turtle B-ANIMAL
+in O
+real O
+life? O
+
+The O
+gorilla B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Farmers O
+often O
+raise O
+cockroachs O
+for O
+food. O
+
+I O
+saw O
+a O
+dragonfly B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+boars O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+reindeers O
+at O
+the O
+zoo. O
+
+Have O
+you O
+ever O
+seen O
+a O
+bee B-ANIMAL
+in O
+real O
+life? O
+
+A O
+woodpecker B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+crows O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+sandpipers O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+horse B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+okapi B-ANIMAL
+as O
+a O
+pet. O
+
+Farmers O
+often O
+raise O
+cows O
+for O
+food. O
+
+A O
+whale B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Children O
+love O
+to O
+watch O
+hummingbirds O
+at O
+the O
+zoo. O
+
+The O
+duck B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+rat B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+snakes O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+cows O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+caterpillars O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+fly B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+group O
+of O
+antelopes O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+snake B-ANIMAL
+in O
+real O
+life? O
+
+Children O
+love O
+to O
+watch O
+hornbills O
+at O
+the O
+zoo. O
+
+A O
+crab B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+snake B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+koalas O
+at O
+the O
+zoo. O
+
+A O
+octopus B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+turtles O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+pandas O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+jellyfishs O
+at O
+the O
+zoo. O
+
+Children O
+love O
+to O
+watch O
+hedgehogs O
+at O
+the O
+zoo. O
+
+Children O
+love O
+to O
+watch O
+oxs O
+at O
+the O
+zoo. O
+
+The O
+hedgehog B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+dolphin B-ANIMAL
+in O
+real O
+life? O
+
+A O
+woodpecker B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+mouse B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Farmers O
+often O
+raise O
+flys O
+for O
+food. O
+
+The O
+hedgehog B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+goldfish B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+octopus B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+hippopotamus B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Many O
+people O
+keep O
+a O
+reindeer B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+bears O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+bear B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+porcupine B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+duck B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+dolphin B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Many O
+people O
+keep O
+a O
+duck B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+mosquito B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+orangutan B-ANIMAL
+in O
+the O
+forest. O
+
+I O
+saw O
+a O
+parrot B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+woodpeckers O
+for O
+food. O
+
+I O
+saw O
+a O
+goldfish B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+cat B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Have O
+you O
+ever O
+seen O
+a O
+cockroach B-ANIMAL
+in O
+real O
+life? O
+
+Children O
+love O
+to O
+watch O
+starfishs O
+at O
+the O
+zoo. O
+
+Have O
+you O
+ever O
+seen O
+a O
+crow B-ANIMAL
+in O
+real O
+life? O
+
+Have O
+you O
+ever O
+seen O
+a O
+swan B-ANIMAL
+in O
+real O
+life? O
+
+Many O
+people O
+keep O
+a O
+panda B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+snake B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+octopuss O
+for O
+food. O
+
+A O
+badger B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+I O
+saw O
+a O
+ladybugs B-ANIMAL
+in O
+the O
+forest. O
+
+I O
+saw O
+a O
+dog B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+caterpillar B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+turkey B-ANIMAL
+as O
+a O
+pet. O
+
+Have O
+you O
+ever O
+seen O
+a O
+gorilla B-ANIMAL
+in O
+real O
+life? O
+
+A O
+sheep B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+penguin B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+dragonfly B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+snake B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Many O
+people O
+keep O
+a O
+hedgehog B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+hornbill B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+hamster B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+fly B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+chimpanzee B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+hyena B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+lizard B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+fly B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+lion B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+elephant B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+group O
+of O
+badgers O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+hedgehog B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Many O
+people O
+keep O
+a O
+oyster B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+hedgehog B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+pelecaniformes B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+hummingbirds O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+octopus B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+seals O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+horses O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+goose B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+octopuss O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+hyenas O
+at O
+the O
+zoo. O
+
+Many O
+people O
+keep O
+a O
+mosquito B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+squirrel B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+koala B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+deer B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Have O
+you O
+ever O
+seen O
+a O
+goat B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+crabs O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+sheep B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+squid B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Children O
+love O
+to O
+watch O
+donkeys O
+at O
+the O
+zoo. O
+
+The O
+moth B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Many O
+people O
+keep O
+a O
+woodpecker B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+rhinoceros B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+goldfish B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+sheep B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Children O
+love O
+to O
+watch O
+porcupines O
+at O
+the O
+zoo. O
+
+Many O
+people O
+keep O
+a O
+wombat B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+penguin B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+flamingo B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+rhinoceros B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Children O
+love O
+to O
+watch O
+okapis O
+at O
+the O
+zoo. O
+
+A O
+deer B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+antelope B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+cockroach B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Farmers O
+often O
+raise O
+octopuss O
+for O
+food. O
+
+Farmers O
+often O
+raise O
+chimpanzees O
+for O
+food. O
+
+A O
+group O
+of O
+badgers O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+boar B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+pelecaniformes B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Have O
+you O
+ever O
+seen O
+a O
+sparrow B-ANIMAL
+in O
+real O
+life? O
+
+Children O
+love O
+to O
+watch O
+starfishs O
+at O
+the O
+zoo. O
+
+Farmers O
+often O
+raise O
+tigers O
+for O
+food. O
+
+I O
+saw O
+a O
+reindeer B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+horses O
+at O
+the O
+zoo. O
+
+The O
+bee B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+caterpillar B-ANIMAL
+in O
+real O
+life? O
+
+The O
+hyena B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+wolf B-ANIMAL
+in O
+real O
+life? O
+
+The O
+mouse B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+dog B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+koala B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+lobster B-ANIMAL
+in O
+the O
+forest. O
+
+Have O
+you O
+ever O
+seen O
+a O
+pigeon B-ANIMAL
+in O
+real O
+life? O
+
+Many O
+people O
+keep O
+a O
+chimpanzee B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+dog B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Farmers O
+often O
+raise O
+mouses O
+for O
+food. O
+
+The O
+leopard B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+seahorse B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+starfish B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+squirrel B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Have O
+you O
+ever O
+seen O
+a O
+ladybugs B-ANIMAL
+in O
+real O
+life? O
+
+Many O
+people O
+keep O
+a O
+sandpiper B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+moth B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+lobster B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+hornbill B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+lobsters O
+for O
+food. O
+
+A O
+group O
+of O
+eagles O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+boar B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+chimpanzee B-ANIMAL
+as O
+a O
+pet. O
+
+Children O
+love O
+to O
+watch O
+parrots O
+at O
+the O
+zoo. O
+
+A O
+squid B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Children O
+love O
+to O
+watch O
+antelopes O
+at O
+the O
+zoo. O
+
+The O
+bee B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+sandpiper B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+butterfly B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+snake B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+ox B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+lizard B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+hornbill B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Farmers O
+often O
+raise O
+cockroachs O
+for O
+food. O
+
+I O
+saw O
+a O
+goose B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+raccoon B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+kangaroo B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+wolf B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+reindeer B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+cow B-ANIMAL
+in O
+real O
+life? O
+
+Have O
+you O
+ever O
+seen O
+a O
+bear B-ANIMAL
+in O
+real O
+life? O
+
+A O
+squid B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Have O
+you O
+ever O
+seen O
+a O
+turkey B-ANIMAL
+in O
+real O
+life? O
+
+The O
+seal B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+fly B-ANIMAL
+in O
+real O
+life? O
+
+A O
+deer B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+pelecaniformes B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+orangutan B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+jellyfish B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+cockroachs O
+for O
+food. O
+
+I O
+saw O
+a O
+hyena B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+pelecaniformes B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+bees O
+for O
+food. O
+
+I O
+saw O
+a O
+goat B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+caterpillar B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+I O
+saw O
+a O
+jellyfish B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+orangutan B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+crab B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+dolphin B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+moth B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+I O
+saw O
+a O
+starfish B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+bear B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+fox B-ANIMAL
+as O
+a O
+pet. O
+
+Farmers O
+often O
+raise O
+possums O
+for O
+food. O
+
+A O
+goldfish B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+hamster B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+koala B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+okapi B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+lizard B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+panda B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+pig B-ANIMAL
+in O
+real O
+life? O
+
+A O
+turkey B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+lizards O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+reindeers O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+bats O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+goat B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+deer B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+pig B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+rhinoceross O
+for O
+food. O
+
+I O
+saw O
+a O
+whale B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+rats O
+at O
+the O
+zoo. O
+
+A O
+goldfish B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+hedgehog B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+panda B-ANIMAL
+in O
+real O
+life? O
+
+A O
+ox B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+group O
+of O
+sandpipers O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+seahorses O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+rats O
+at O
+the O
+zoo. O
+
+Have O
+you O
+ever O
+seen O
+a O
+caterpillar B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+seals O
+for O
+food. O
+
+A O
+hare B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Farmers O
+often O
+raise O
+beetles O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+woodpecker B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+badgers O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+mouses O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+hamster B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+swan B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+caterpillar B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Have O
+you O
+ever O
+seen O
+a O
+porcupine B-ANIMAL
+in O
+real O
+life? O
+
+Many O
+people O
+keep O
+a O
+hamster B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+bat B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Farmers O
+often O
+raise O
+koalas O
+for O
+food. O
+
+A O
+group O
+of O
+lions O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+hedgehogs O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+parrot B-ANIMAL
+as O
+a O
+pet. O
+
+Children O
+love O
+to O
+watch O
+possums O
+at O
+the O
+zoo. O
+
+The O
+grasshopper B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Children O
+love O
+to O
+watch O
+sparrows O
+at O
+the O
+zoo. O
+
+Have O
+you O
+ever O
+seen O
+a O
+squid B-ANIMAL
+in O
+real O
+life? O
+
+Many O
+people O
+keep O
+a O
+owl B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+koala B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+bat B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+grasshopper B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+beetle B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+bear B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Children O
+love O
+to O
+watch O
+whales O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+hamsters O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+squirrel B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+ladybugs B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+lions O
+for O
+food. O
+
+A O
+turtle B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Have O
+you O
+ever O
+seen O
+a O
+flamingo B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+hyenas O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+bison B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+gorilla B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+antelope B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+I O
+saw O
+a O
+mouse B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+hedgehog B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+pigeon B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+pigs O
+for O
+food. O
+
+The O
+jellyfish B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+leopard B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Many O
+people O
+keep O
+a O
+seal B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+duck B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+whale B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+kangaroo B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+dog B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+parrot B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+panda B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+crows O
+for O
+food. O
+
+Many O
+people O
+keep O
+a O
+hornbill B-ANIMAL
+as O
+a O
+pet. O
+
+Farmers O
+often O
+raise O
+cockroachs O
+for O
+food. O
+
+A O
+goat B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Many O
+people O
+keep O
+a O
+dolphin B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+octopuss O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+lion B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+goldfish B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+sparrow B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Children O
+love O
+to O
+watch O
+crows O
+at O
+the O
+zoo. O
+
+I O
+saw O
+a O
+pig B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+swan B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+dragonfly B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+panda B-ANIMAL
+in O
+real O
+life? O
+
+Have O
+you O
+ever O
+seen O
+a O
+rhinoceros B-ANIMAL
+in O
+real O
+life? O
+
+Many O
+people O
+keep O
+a O
+dolphin B-ANIMAL
+as O
+a O
+pet. O
+
+Farmers O
+often O
+raise O
+mouses O
+for O
+food. O
+
+A O
+hedgehog B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Farmers O
+often O
+raise O
+lizards O
+for O
+food. O
+
+A O
+dog B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+I O
+saw O
+a O
+bat B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+orangutan B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Children O
+love O
+to O
+watch O
+goldfishs O
+at O
+the O
+zoo. O
+
+Have O
+you O
+ever O
+seen O
+a O
+squid B-ANIMAL
+in O
+real O
+life? O
+
+The O
+jellyfish B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+porcupine B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Children O
+love O
+to O
+watch O
+whales O
+at O
+the O
+zoo. O
+
+The O
+wolf B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+rat B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+koala B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+possum B-ANIMAL
+as O
+a O
+pet. O
+
+Farmers O
+often O
+raise O
+squids O
+for O
+food. O
+
+The O
+wolf B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+antelopes O
+for O
+food. O
+
+Children O
+love O
+to O
+watch O
+reindeers O
+at O
+the O
+zoo. O
+
+The O
+hare B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+mosquito B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+bisons O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+hippopotamus B-ANIMAL
+in O
+real O
+life? O
+
+A O
+butterfly B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+lobster B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+turkey B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+bee B-ANIMAL
+in O
+real O
+life? O
+
+The O
+coyote B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+dolphin B-ANIMAL
+in O
+the O
+forest. O
+
+I O
+saw O
+a O
+lobster B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+hedgehog B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+whale B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Farmers O
+often O
+raise O
+woodpeckers O
+for O
+food. O
+
+The O
+goose B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Farmers O
+often O
+raise O
+goldfishs O
+for O
+food. O
+
+Children O
+love O
+to O
+watch O
+dragonflys O
+at O
+the O
+zoo. O
+
+A O
+ox B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+I O
+saw O
+a O
+turtle B-ANIMAL
+in O
+the O
+forest. O
+
+Have O
+you O
+ever O
+seen O
+a O
+badger B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+flys O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+ladybugss O
+at O
+the O
+zoo. O
+
+A O
+badger B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Many O
+people O
+keep O
+a O
+wombat B-ANIMAL
+as O
+a O
+pet. O
+
+Have O
+you O
+ever O
+seen O
+a O
+hamster B-ANIMAL
+in O
+real O
+life? O
+
+Have O
+you O
+ever O
+seen O
+a O
+hamster B-ANIMAL
+in O
+real O
+life? O
+
+The O
+zebra B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+owl B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+hummingbird B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+group O
+of O
+horses O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+pigeons O
+for O
+food. O
+
+Farmers O
+often O
+raise O
+penguins O
+for O
+food. O
+
+A O
+group O
+of O
+oysters O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+rats O
+for O
+food. O
+
+The O
+badger B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+oxs O
+for O
+food. O
+
+The O
+hedgehog B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+kangaroos O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+boar B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+whale B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+zebra B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+I O
+saw O
+a O
+snake B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+donkey B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+crab B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+I O
+saw O
+a O
+crab B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+sheeps O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+possum B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+porcupine B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+whales O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+turtles O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+cockroach B-ANIMAL
+in O
+real O
+life? O
+
+Have O
+you O
+ever O
+seen O
+a O
+goat B-ANIMAL
+in O
+real O
+life? O
+
+The O
+bee B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+gorilla B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Many O
+people O
+keep O
+a O
+owl B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+caterpillars O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+tiger B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+parrots O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+hyena B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+flamingo B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+raccoon B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+hummingbird B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+mosquito B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+donkey B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+rat B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Children O
+love O
+to O
+watch O
+dragonflys O
+at O
+the O
+zoo. O
+
+Farmers O
+often O
+raise O
+goats O
+for O
+food. O
+
+The O
+swan B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+dolphin B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+octopuss O
+for O
+food. O
+
+A O
+group O
+of O
+moths O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+ladybugs B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+zebra B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Many O
+people O
+keep O
+a O
+woodpecker B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+lobster B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+leopard B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+bats O
+at O
+the O
+zoo. O
+
+Many O
+people O
+keep O
+a O
+seahorse B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+seahorses O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+mosquito B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+owl B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Children O
+love O
+to O
+watch O
+goats O
+at O
+the O
+zoo. O
+
+A O
+starfish B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+possum B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+squid B-ANIMAL
+in O
+the O
+forest. O
+
+Have O
+you O
+ever O
+seen O
+a O
+woodpecker B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+dog B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+eagle B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Many O
+people O
+keep O
+a O
+snake B-ANIMAL
+as O
+a O
+pet. O
+
+Children O
+love O
+to O
+watch O
+caterpillars O
+at O
+the O
+zoo. O
+
+A O
+zebra B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Farmers O
+often O
+raise O
+hornbills O
+for O
+food. O
+
+Farmers O
+often O
+raise O
+dogs O
+for O
+food. O
+
+I O
+saw O
+a O
+lobster B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+fly B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+I O
+saw O
+a O
+donkey B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+swan B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+crow B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+rhinoceros B-ANIMAL
+as O
+a O
+pet. O
+
+Have O
+you O
+ever O
+seen O
+a O
+ox B-ANIMAL
+in O
+real O
+life? O
+
+Many O
+people O
+keep O
+a O
+rhinoceros B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+parrot B-ANIMAL
+as O
+a O
+pet. O
+
+Children O
+love O
+to O
+watch O
+lobsters O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+possums O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+hedgehog B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+fly B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+starfishs O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+seahorses O
+for O
+food. O
+
+Children O
+love O
+to O
+watch O
+penguins O
+at O
+the O
+zoo. O
+
+The O
+bear B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+eagle B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+octopus B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+bees O
+for O
+food. O
+
+A O
+group O
+of O
+crows O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+donkey B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+turkey B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+caterpillar B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+caterpillar B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+pigeon B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Many O
+people O
+keep O
+a O
+boar B-ANIMAL
+as O
+a O
+pet. O
+
+Farmers O
+often O
+raise O
+porcupines O
+for O
+food. O
+
+Many O
+people O
+keep O
+a O
+otter B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+bee B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Farmers O
+often O
+raise O
+mosquitos O
+for O
+food. O
+
+A O
+jellyfish B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+dog B-ANIMAL
+in O
+real O
+life? O
+
+I O
+saw O
+a O
+parrot B-ANIMAL
+in O
+the O
+forest. O
+
+I O
+saw O
+a O
+flamingo B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+hare B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+squirrels O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+koala B-ANIMAL
+in O
+the O
+forest. O
+
+I O
+saw O
+a O
+wolf B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+coyote B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+antelope B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+group O
+of O
+badgers O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+wombat B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+swan B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+hamster B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+whales O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+badger B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+dolphin B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+bisons O
+for O
+food. O
+
+Many O
+people O
+keep O
+a O
+grasshopper B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+parrot B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+koala B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Children O
+love O
+to O
+watch O
+sparrows O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+tigers O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+antelopes O
+for O
+food. O
+
+A O
+group O
+of O
+eagles O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+koala B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+wombat B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+fly B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+eagle B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+eagle B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Many O
+people O
+keep O
+a O
+elephant B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+horses O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+porcupine B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+fly B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Many O
+people O
+keep O
+a O
+horse B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+pigeon B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+elephant B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+swan B-ANIMAL
+in O
+real O
+life? O
+
+A O
+turtle B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+tiger B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Farmers O
+often O
+raise O
+goldfishs O
+for O
+food. O
+
+Children O
+love O
+to O
+watch O
+boars O
+at O
+the O
+zoo. O
+
+A O
+eagle B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Have O
+you O
+ever O
+seen O
+a O
+raccoon B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+cockroachs O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+dragonfly B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+snake B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+starfish B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+cockroach B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+kangaroo B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+dolphins O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+antelope B-ANIMAL
+in O
+real O
+life? O
+
+A O
+donkey B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+donkeys O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+cockroachs O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+caterpillar B-ANIMAL
+in O
+the O
+forest. O
+
+Have O
+you O
+ever O
+seen O
+a O
+shark B-ANIMAL
+in O
+real O
+life? O
+
+Many O
+people O
+keep O
+a O
+possum B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+starfish B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+squid B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+oyster B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+sheep B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+badger B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+gorilla B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+fly B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Farmers O
+often O
+raise O
+pandas O
+for O
+food. O
+
+I O
+saw O
+a O
+bison B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+kangaroo B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+turkey B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+antelope B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Farmers O
+often O
+raise O
+elephants O
+for O
+food. O
+
+A O
+caterpillar B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+bat B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+rats O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+possums O
+at O
+the O
+zoo. O
+
+I O
+saw O
+a O
+pig B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+mosquitos O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+rats O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+wolfs O
+at O
+the O
+zoo. O
+
+The O
+goldfish B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+hummingbird B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+lion B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+cockroach B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+wolfs O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+coyotes O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+rhinoceross O
+at O
+the O
+zoo. O
+
+The O
+beetle B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Children O
+love O
+to O
+watch O
+cockroachs O
+at O
+the O
+zoo. O
+
+Many O
+people O
+keep O
+a O
+rat B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+group O
+of O
+sheeps O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+goat B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+mosquitos O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+koala B-ANIMAL
+as O
+a O
+pet. O
+
+Have O
+you O
+ever O
+seen O
+a O
+pig B-ANIMAL
+in O
+real O
+life? O
+
+Have O
+you O
+ever O
+seen O
+a O
+octopus B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+deers O
+for O
+food. O
+
+Many O
+people O
+keep O
+a O
+tiger B-ANIMAL
+as O
+a O
+pet. O
+
+Farmers O
+often O
+raise O
+sparrows O
+for O
+food. O
+
+Many O
+people O
+keep O
+a O
+goose B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+snake B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Have O
+you O
+ever O
+seen O
+a O
+bison B-ANIMAL
+in O
+real O
+life? O
+
+Children O
+love O
+to O
+watch O
+moths O
+at O
+the O
+zoo. O
+
+Farmers O
+often O
+raise O
+wolfs O
+for O
+food. O
+
+Farmers O
+often O
+raise O
+bisons O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+mouse B-ANIMAL
+in O
+real O
+life? O
+
+Many O
+people O
+keep O
+a O
+hummingbird B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+pigeon B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+bison B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+group O
+of O
+beetles O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+penguin B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+group O
+of O
+squids O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+rhinoceross O
+for O
+food. O
+
+A O
+moth B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+oyster B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Children O
+love O
+to O
+watch O
+beetles O
+at O
+the O
+zoo. O
+
+The O
+goat B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+deer B-ANIMAL
+as O
+a O
+pet. O
+
+The O
+fly B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Children O
+love O
+to O
+watch O
+butterflys O
+at O
+the O
+zoo. O
+
+A O
+lion B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+I O
+saw O
+a O
+porcupine B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+lobsters O
+were O
+spotted O
+near O
+the O
+river. O
+
+I O
+saw O
+a O
+cow B-ANIMAL
+in O
+the O
+forest. O
+
+Have O
+you O
+ever O
+seen O
+a O
+cat B-ANIMAL
+in O
+real O
+life? O
+
+A O
+cockroach B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Farmers O
+often O
+raise O
+wolfs O
+for O
+food. O
+
+The O
+okapi B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Children O
+love O
+to O
+watch O
+badgers O
+at O
+the O
+zoo. O
+
+I O
+saw O
+a O
+bison B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+tigers O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+cat B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+boar B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+horse B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+group O
+of O
+lions O
+were O
+spotted O
+near O
+the O
+river. O
+
+Farmers O
+often O
+raise O
+orangutans O
+for O
+food. O
+
+Children O
+love O
+to O
+watch O
+flys O
+at O
+the O
+zoo. O
+
+Have O
+you O
+ever O
+seen O
+a O
+ox B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+hyenas O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+goose B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+hummingbird B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+mouse B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+rat B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+leopard B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+I O
+saw O
+a O
+squirrel B-ANIMAL
+in O
+the O
+forest. O
+
+I O
+saw O
+a O
+koala B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+koala B-ANIMAL
+as O
+a O
+pet. O
+
+Children O
+love O
+to O
+watch O
+deers O
+at O
+the O
+zoo. O
+
+I O
+saw O
+a O
+mouse B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+eagles O
+at O
+the O
+zoo. O
+
+A O
+group O
+of O
+gorillas O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+oyster B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+reindeers O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+zebra B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+coyotes O
+for O
+food. O
+
+Children O
+love O
+to O
+watch O
+dogs O
+at O
+the O
+zoo. O
+
+I O
+saw O
+a O
+hummingbird B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+sharks O
+for O
+food. O
+
+A O
+raccoon B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+A O
+cat B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+A O
+group O
+of O
+badgers O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+bisons O
+at O
+the O
+zoo. O
+
+Children O
+love O
+to O
+watch O
+mosquitos O
+at O
+the O
+zoo. O
+
+The O
+orangutan B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+hippopotamus B-ANIMAL
+in O
+real O
+life? O
+
+The O
+cow B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+boars O
+for O
+food. O
+
+A O
+group O
+of O
+turtles O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+elephants O
+at O
+the O
+zoo. O
+
+A O
+wolf B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+I O
+saw O
+a O
+lobster B-ANIMAL
+in O
+the O
+forest. O
+
+I O
+saw O
+a O
+koala B-ANIMAL
+in O
+the O
+forest. O
+
+I O
+saw O
+a O
+mouse B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+bat B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+antelopes O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+kangaroos O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+group O
+of O
+foxs O
+were O
+spotted O
+near O
+the O
+river. O
+
+Many O
+people O
+keep O
+a O
+squirrel B-ANIMAL
+as O
+a O
+pet. O
+
+Have O
+you O
+ever O
+seen O
+a O
+eagle B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+jellyfishs O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+panda B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Many O
+people O
+keep O
+a O
+bison B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+sandpiper B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+hamster B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+dolphin B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+penguin B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+starfish B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+rats O
+at O
+the O
+zoo. O
+
+The O
+wolf B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+shark B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Farmers O
+often O
+raise O
+beetles O
+for O
+food. O
+
+The O
+kangaroo B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Have O
+you O
+ever O
+seen O
+a O
+cat B-ANIMAL
+in O
+real O
+life? O
+
+The O
+oyster B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+seal B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Children O
+love O
+to O
+watch O
+squirrels O
+at O
+the O
+zoo. O
+
+A O
+flamingo B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Many O
+people O
+keep O
+a O
+turtle B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+owl B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+horse B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+pig B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+The O
+okapi B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+lizard B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+Have O
+you O
+ever O
+seen O
+a O
+pelecaniformes B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+kangaroos O
+for O
+food. O
+
+Farmers O
+often O
+raise O
+otters O
+for O
+food. O
+
+Have O
+you O
+ever O
+seen O
+a O
+deer B-ANIMAL
+in O
+real O
+life? O
+
+A O
+cow B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+hedgehog B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+hummingbird B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+Many O
+people O
+keep O
+a O
+rat B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+leopard B-ANIMAL
+in O
+the O
+forest. O
+
+I O
+saw O
+a O
+cat B-ANIMAL
+in O
+the O
+forest. O
+
+The O
+goat B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+dragonfly B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+wolf B-ANIMAL
+is O
+a O
+very O
+intelligent O
+animal. O
+
+I O
+saw O
+a O
+beetle B-ANIMAL
+in O
+the O
+forest. O
+
+Many O
+people O
+keep O
+a O
+penguin B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+hare B-ANIMAL
+in O
+the O
+forest. O
+
+Children O
+love O
+to O
+watch O
+squirrels O
+at O
+the O
+zoo. O
+
+The O
+lobster B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+A O
+group O
+of O
+caterpillars O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+antelope B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+I O
+saw O
+a O
+beetle B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+group O
+of O
+eagles O
+were O
+spotted O
+near O
+the O
+river. O
+
+A O
+possum B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+leopard B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+crab B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+group O
+of O
+elephants O
+were O
+spotted O
+near O
+the O
+river. O
+
+Have O
+you O
+ever O
+seen O
+a O
+fly B-ANIMAL
+in O
+real O
+life? O
+
+A O
+group O
+of O
+rats O
+were O
+spotted O
+near O
+the O
+river. O
+
+The O
+shark B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Many O
+people O
+keep O
+a O
+gorilla B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+cockroach B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+bear B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+Many O
+people O
+keep O
+a O
+turkey B-ANIMAL
+as O
+a O
+pet. O
+
+I O
+saw O
+a O
+caterpillar B-ANIMAL
+in O
+the O
+forest. O
+
+Farmers O
+often O
+raise O
+leopards O
+for O
+food. O
+
+Children O
+love O
+to O
+watch O
+oysters O
+at O
+the O
+zoo. O
+
+Farmers O
+often O
+raise O
+squirrels O
+for O
+food. O
+
+The O
+elephant B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+I O
+saw O
+a O
+cat B-ANIMAL
+in O
+the O
+forest. O
+
+A O
+raccoon B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
+
+The O
+ladybugs B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+The O
+bat B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+Have O
+you O
+ever O
+seen O
+a O
+tiger B-ANIMAL
+in O
+real O
+life? O
+
+Farmers O
+often O
+raise O
+lobsters O
+for O
+food. O
+
+Many O
+people O
+keep O
+a O
+goat B-ANIMAL
+as O
+a O
+pet. O
+
+Farmers O
+often O
+raise O
+squirrels O
+for O
+food. O
+
+Farmers O
+often O
+raise O
+sharks O
+for O
+food. O
+
+The O
+oyster B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+dog B-ANIMAL
+was O
+sleeping O
+under O
+a O
+tree. O
+
+The O
+hedgehog B-ANIMAL
+was O
+running O
+across O
+the O
+road. O
+
+A O
+group O
+of O
+oysters O
+were O
+spotted O
+near O
+the O
+river. O
+
+Children O
+love O
+to O
+watch O
+rhinoceross O
+at O
+the O
+zoo. O
+
+Many O
+people O
+keep O
+a O
+crab B-ANIMAL
+as O
+a O
+pet. O
+
+Many O
+people O
+keep O
+a O
+orangutan B-ANIMAL
+as O
+a O
+pet. O
+
+A O
+oyster B-ANIMAL
+can O
+be O
+very O
+dangerous O
+if O
+provoked. O
