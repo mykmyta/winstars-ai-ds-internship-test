@@ -1,0 +1,8 @@
+The picture shows a cow.
+cow.jpg
+
+The picture shows a butterfly.
+butterfly.png
+
+The picture shows a cockroach.
+cockroach.jpg

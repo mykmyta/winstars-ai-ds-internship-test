@@ -1,0 +1,9 @@
+tensorflow
+transformers
+scikit-learn
+inflect
+matplotlib
+numpy
+torch
+transformers
+datasets
