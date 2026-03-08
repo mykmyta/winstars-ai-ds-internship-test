@@ -1,0 +1,9 @@
+tensorflow==2.20.0
+numpy>=1.26
+matplotlib>=3.8
+scikit-learn>=1.4
+pillow>=10.0
+transformers>=4.40
+datasets>=2.18
+torch>=2.2
+accelerate>=0.30
