@@ -8,6 +8,54 @@ This task contains three components:
 
 ## Project Structure
 
+```
+task2/
+├── __init__.py
+├── README.md
+├── requirements.txt
+├── demo.ipynb
+│
+├── image_classification/
+│   ├── __init__.py
+│   ├── train_model.py
+│   ├── infer_image.py
+│   ├── evaluate_model.py
+│   ├── data/
+│   │   ├── raw-img.zip
+│   │   └── raw-img/
+│   ├── models/
+│   │   └── ANIMAL_CLF.keras
+│   └── artifacts/
+│       ├── class_names.json
+│       ├── history.json
+│       ├── accuracy.png
+│       ├── loss.png
+│       ├── confusion_matrix.png
+│       └── random_predictions.png
+│
+├── ner/
+│   ├── __init__.py
+│   ├── train_ner.py
+│   ├── infer_ner.py
+│   ├── data/
+│   │   └── conll_animal_dataset.txt
+│   ├── model/
+│   │   ├── config.json
+│   │   ├── model.safetensors
+│   │   ├── tokenizer_config.json
+│   │   └── ...
+│   └── artifacts/
+│       └── ner_examples.json
+│
+├── pipeline/
+│   ├── __init__.py
+│   └── verify_claim.py
+│
+└── utils/
+    ├── __init__.py
+    └── normalization.py
+```
+
 - `task2/image_classification/train_model.py` - train CNN model.
 - `task2/image_classification/evaluate_model.py` - evaluate CNN and build confusion matrix.
 - `task2/image_classification/infer_image.py` - run inference for one image.
