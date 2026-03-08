@@ -9,6 +9,7 @@ from task2.utils.normalization import normalize_animal_name
 
 
 def parse_args() -> argparse.Namespace:
+    """Parse CLI arguments for claim verification pipeline."""
     parser = argparse.ArgumentParser(description="Verify text claim against image")
     parser.add_argument("--image", type=Path, required=True)
     parser.add_argument("--text", type=str, required=True)
@@ -29,6 +30,7 @@ def verify_claim(
     threshold: float = 0.5,
     img_size: tuple[int, int] = (224, 224),
 ) -> dict:
+    """Check whether the animal in text matches image prediction above confidence threshold."""
     image_result = predict_image(
         image_path=image_path,
         model_path=cnn_model,
@@ -65,6 +67,7 @@ def verify_claim(
 
 
 def main() -> None:
+    """CLI entrypoint for end-to-end claim verification."""
     args = parse_args()
     result = verify_claim(
         image_path=args.image,

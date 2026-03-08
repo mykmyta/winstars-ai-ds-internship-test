@@ -9,6 +9,7 @@ import tensorflow as tf
 
 
 def parse_args() -> argparse.Namespace:
+    """Parse CLI arguments for single-image inference."""
     parser = argparse.ArgumentParser(description="Run image inference")
     parser.add_argument("--model", type=Path, required=True)
     parser.add_argument("--class-names", type=Path, required=True)
@@ -19,11 +20,13 @@ def parse_args() -> argparse.Namespace:
 
 
 def load_class_names(path: Path) -> list[str]:
+    """Load class labels from JSON."""
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
 def preprocess_image(image_path: Path, img_size: tuple[int, int]) -> np.ndarray:
+    """Load and convert an image file into a model-ready batch tensor."""
     img = tf.keras.utils.load_img(image_path, target_size=img_size)
     arr = tf.keras.utils.img_to_array(img)
     arr = np.expand_dims(arr, axis=0)
@@ -37,6 +40,7 @@ def predict_image(
     img_size: tuple[int, int] = (224, 224),
     top_k: int = 3,
 ) -> dict:
+    """Run inference and return top predictions for a single image."""
     model = tf.keras.models.load_model(model_path)
     class_names = load_class_names(class_names_path)
 
@@ -48,10 +52,7 @@ def predict_image(
     confidence = float(probs[pred_idx])
 
     top_indices = np.argsort(probs)[::-1][:top_k]
-    top_predictions = [
-        {"label": class_names[int(i)], "score": float(probs[int(i)])}
-        for i in top_indices
-    ]
+    top_predictions = [{"label": class_names[int(i)], "score": float(probs[int(i)])} for i in top_indices]
 
     return {
         "image_path": str(image_path),
@@ -62,6 +63,7 @@ def predict_image(
 
 
 def main() -> None:
+    """CLI entrypoint for single-image inference."""
     args = parse_args()
     result = predict_image(
         image_path=args.image,

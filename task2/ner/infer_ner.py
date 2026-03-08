@@ -9,6 +9,7 @@ from task2.utils.normalization import normalize_animal_name
 
 
 def parse_args() -> argparse.Namespace:
+    """Parse CLI arguments for NER inference."""
     parser = argparse.ArgumentParser(description="Run NER inference")
     parser.add_argument("--model-dir", type=Path, required=True)
     parser.add_argument("--text", type=str, required=True)
@@ -16,6 +17,7 @@ def parse_args() -> argparse.Namespace:
 
 
 def extract_animal_from_text(text: str, model_dir: Path) -> dict:
+    """Extract the first normalized animal mention from free text."""
     nlp = pipeline(
         "ner",
         model=str(model_dir),
@@ -41,6 +43,7 @@ def extract_animal_from_text(text: str, model_dir: Path) -> dict:
 
 
 def main() -> None:
+    """CLI entrypoint for NER inference."""
     args = parse_args()
     result = extract_animal_from_text(args.text, args.model_dir)
     print(result)

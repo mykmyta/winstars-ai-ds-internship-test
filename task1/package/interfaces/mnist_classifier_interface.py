@@ -1,19 +1,15 @@
 from abc import ABC, abstractmethod
 
+
 class MnistClassifierInterface(ABC):
-    """
-    An abstract base class that defines the interface for an MNIST classifier.
-    Methods
-    -------
-    train()
-        Abstract method to train the MNIST classifier. Must be implemented by subclasses.
-    predict()
-        Abstract method to make predictions using the trained MNIST classifier. Must be implemented by subclasses.
-    """
+    """Common interface for MNIST classifiers used in this project."""
+
     @abstractmethod
+    def train(self) -> None:
+        """Train the classifier on the data passed at construction time."""
+        raise NotImplementedError
 
-    def train():
-        pass
-
-    def predict():
-        pass
+    @abstractmethod
+    def predict(self, x):
+        """Predict class indices for input samples `x`."""
+        raise NotImplementedError

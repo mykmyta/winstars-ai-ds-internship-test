@@ -14,6 +14,7 @@ IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".bmp", ".gif", ".webp"}
 
 
 def parse_args() -> argparse.Namespace:
+    """Parse CLI arguments for model evaluation."""
     parser = argparse.ArgumentParser(description="Evaluate image classifier")
     parser.add_argument("--data-dir", type=Path, required=True)
     parser.add_argument("--model", type=Path, required=True)
@@ -38,11 +39,13 @@ def parse_args() -> argparse.Namespace:
 
 
 def load_class_names(path: Path) -> list[str]:
+    """Load class names from a JSON artifact."""
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
 def _collect_class_images(class_dir: Path) -> list[Path]:
+    """Collect image files from one class directory."""
     return [p for p in class_dir.iterdir() if p.is_file() and p.suffix.lower() in IMAGE_EXTENSIONS]
 
 
@@ -53,6 +56,7 @@ def _choose_balanced_subset(
     val_fraction: float,
     samples_per_class: int,
 ) -> tuple[list[str], np.ndarray, dict[str, int]]:
+    """Sample the same number of images from each class for balanced evaluation."""
     rng = np.random.default_rng(seed)
     files_by_class: dict[str, list[Path]] = {}
 
@@ -99,6 +103,7 @@ def make_balanced_eval_dataset(
     val_fraction: float,
     samples_per_class: int,
 ):
+    """Build a `tf.data.Dataset` from a balanced class subset."""
     paths, labels, per_class_counts = _choose_balanced_subset(
         data_dir=data_dir,
         class_names=class_names,
@@ -121,6 +126,7 @@ def make_balanced_eval_dataset(
 
 
 def main() -> None:
+    """Evaluate a trained model and save confusion matrix artifact."""
     args = parse_args()
     img_size = (args.img_size, args.img_size)
     out_dir = args.out_dir

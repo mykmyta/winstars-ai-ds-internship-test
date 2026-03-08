@@ -1,4 +1,4 @@
-﻿from __future__ import annotations
+from __future__ import annotations
 
 import argparse
 from pathlib import Path
@@ -19,6 +19,7 @@ ID2LABEL = {i: label for label, i in LABEL2ID.items()}
 
 
 def parse_args() -> argparse.Namespace:
+    """Parse CLI arguments for NER model training."""
     parser = argparse.ArgumentParser(description="Train NER model")
     parser.add_argument("--data-path", type=Path, required=True)
     parser.add_argument("--output-dir", type=Path, required=True)
@@ -29,6 +30,7 @@ def parse_args() -> argparse.Namespace:
 
 
 def read_conll(path: Path):
+    """Read a CoNLL-style token/tag file into sentence-level lists."""
     sentences = []
     labels = []
 
@@ -46,7 +48,7 @@ def read_conll(path: Path):
                     current_tags = []
                 continue
 
-            token, tag = line.split()
+            token, tag = line.split(maxsplit=1)
             current_tokens.append(token)
             current_tags.append(LABEL2ID[tag])
 
@@ -58,12 +60,14 @@ def read_conll(path: Path):
 
 
 def build_dataset(sentences, labels) -> DatasetDict:
+    """Build a train/test split from tokenized sentences and tag ids."""
     dataset = Dataset.from_dict({"tokens": sentences, "ner_tags": labels})
     split = dataset.train_test_split(test_size=0.2, seed=42)
     return DatasetDict({"train": split["train"], "test": split["test"]})
 
 
 def tokenize_and_align_labels(examples, tokenizer):
+    """Tokenize words and align token-level labels with subword positions."""
     tokenized = tokenizer(
         examples["tokens"],
         truncation=True,
@@ -71,7 +75,7 @@ def tokenize_and_align_labels(examples, tokenizer):
     )
 
     aligned_labels = []
-    for i, labels in enumerate(examples["ner_tags"]):
+    for i, label_ids_per_sentence in enumerate(examples["ner_tags"]):
         word_ids = tokenized.word_ids(batch_index=i)
         prev_word_id = None
         label_ids = []
@@ -80,7 +84,7 @@ def tokenize_and_align_labels(examples, tokenizer):
             if word_id is None:
                 label_ids.append(-100)
             elif word_id != prev_word_id:
-                label_ids.append(labels[word_id])
+                label_ids.append(label_ids_per_sentence[word_id])
             else:
                 label_ids.append(-100)
             prev_word_id = word_id
@@ -92,6 +96,7 @@ def tokenize_and_align_labels(examples, tokenizer):
 
 
 def main() -> None:
+    """Train and export a token-classification NER model."""
     args = parse_args()
 
     sentences, labels = read_conll(args.data_path)
@@ -128,7 +133,7 @@ def main() -> None:
         args=training_args,
         train_dataset=tokenized_dataset["train"],
         eval_dataset=tokenized_dataset["test"],
-        processing_class=tokenizer,   # modern replacement for tokenizer=
+        processing_class=tokenizer,
         data_collator=DataCollatorForTokenClassification(tokenizer),
     )
 
